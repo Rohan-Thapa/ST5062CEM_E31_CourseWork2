@@ -1,0 +1,8 @@
+This is a Banking System with socket communication.
+For running this file we need to be inside the project directory and to run the Server at first as the Server is CLI.
+> python server.py (In Windows)
+> python3 server.py (In Linux and MacOS)
+
+And after we need to run the Client for using the service.
+> python client.py (In Windows)
+> python3 client.py (In Linux and MacOS)
